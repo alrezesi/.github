@@ -121,7 +121,7 @@ class AIEngineer:
 ### Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,cursor,powershell" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,powershell,cursor" />
 </p>
 
 ---
