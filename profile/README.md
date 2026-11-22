@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ali-Reza Eskandari</h1>
+<h1 align="center">Hi 👋, I'm Alireza Eskandari</h1>
 
 <h3 align="center">
 AI Engineer | Machine Learning | LLMs & Agentic Systems
@@ -14,8 +14,12 @@ Building intelligent systems that solve real-world problems.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alrezesi&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/followers/alrezesi?style=for-the-badge" />
+  <a href="https://github.com/alrezesi">
+    <img src="https://komarev.com/ghpvc/?username=alrezesi&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://github.com/alrezesi?tab=followers">
+    <img src="https://img.shields.io/github/followers/alrezesi?style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -60,15 +64,16 @@ class AIEngineer:
 
 ## ⚙️ Tech Stack
 
-### Programming & Backend
+### Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### AI & Machine Learning
 
 - Machine Learning & Deep Learning
+- Neural Networks
 - Natural Language Processing
 - Large Language Models (LLMs)
 - Prompt Engineering
@@ -87,6 +92,19 @@ class AIEngineer:
 - Document AI
 - AI Automation
 
+### Backend & Data Engineering
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis" />
+</p>
+
+- Python Backend Development
+- FastAPI & REST APIs
+- PostgreSQL
+- pgvector
+- Redis
+- API Integration
+
 ### DevOps & Infrastructure
 
 <p align="left">
@@ -96,6 +114,7 @@ class AIEngineer:
 - Docker & Docker Compose
 - Linux & Server Administration
 - CI/CD Fundamentals
+- Git & GitHub
 - MLOps
 - Distributed Systems
 
@@ -111,7 +130,9 @@ class AIEngineer:
 
 ### 1. AI Agent Platform
 
-A modular platform for building and orchestrating intelligent agents.
+A modular platform for building, orchestrating, and executing intelligent agents.
+
+**Core components:**
 
 - Agent Registry
 - Workflow Engine
@@ -119,32 +140,35 @@ A modular platform for building and orchestrating intelligent agents.
 - Message Bus
 - Plugin System
 - Tool Calling
-- Multi-Agent Communication (A2A)
+- Agent-to-Agent (A2A) Communication
 - Distributed Execution
 - Retry & Recovery Mechanisms
+- Multi-Worker Architecture
+
+**Technologies:**
+
+Python · FastAPI · PostgreSQL · Redis · Docker
 
 🔗 **Repository:** [AI-Agent-Platform](https://github.com/alrezesi/AI-Agent-Platform)
 
-### 2. Legal-LLM
+---
 
-An experimental project focused on developing a Persian legal language model.
+### 2. AltRadar — Cryptocurrency Market Intelligence
 
-- Domain-Specific Language Models
-- Transformer Architectures
-- Knowledge Distillation
-- LoRA Fine-Tuning
-- Legal NLP
-- GGUF Model Quantization
+A research-oriented Machine Learning project focused on cryptocurrency market regime and trend detection.
 
-### 3. AltRadar
-
-A research-oriented Machine Learning project for cryptocurrency market regime detection.
+**Research focus:**
 
 - Time-Series Analysis
 - Multi-Timeframe Trend Detection
 - Deep Learning
 - Market Regime Classification
-- Decision Support Systems
+- Technical Analysis
+- Intelligent Decision Support Systems
+
+**Research objective:**
+
+Developing machine learning approaches to identify market trends and support data-driven decision-making in cryptocurrency markets.
 
 ---
 
@@ -155,7 +179,7 @@ A research-oriented Machine Learning project for cryptocurrency market regime de
 - Agentic AI and Autonomous Systems
 - Large Language Models
 - Intelligent Decision Support Systems
-- Time-Series Analysis
+- Time-Series Analysis and Classification
 - Reliable and Scalable AI Systems
 
 ---
@@ -194,11 +218,15 @@ A research-oriented Machine Learning project for cryptocurrency market regime de
 
 ## 🤝 Let's Connect
 
+I'm interested in connecting with AI engineers, researchers, developers, and teams working on intelligent systems and practical AI applications.
+
 <p align="center">
   <a href="https://github.com/alrezesi">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
 
 <p align="center">
   <strong>Building intelligent systems. Engineering real-world AI.</strong>
